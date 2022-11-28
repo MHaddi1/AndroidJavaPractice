@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecylerViewPractice</string>
+    <string-array name="Programming_array">
+        <item>C Language</item>
+        <item>C++ Language</item>
+        <item>C Shape</item>
+        <item>Python</item>
+        <item>Javascript</item>
+        <item>Java</item>
+        <item>TypeScript</item>
+    </string-array>
+    <string-array name="Description_array">
+        <item>This Is a Description</item>
+        <item>This Is a Description</item>
+        <item>This Is a Description</item>
+        <item>This Is a Description</item>
+        <item>This Is a Description</item>
+        <item>This Is a Description</item>
+        <item>This Is a Description</item>
+    </string-array>
+</resources>
