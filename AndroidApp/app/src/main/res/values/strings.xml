@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="click">Sign Up</string>
+    <string name="EditText">Enter The Username</string>
+    <string name="EditText2">Enter The Password</string>
+    <string name="EditText3">Enter The Confirm Password</string>
+    <string name="EditText4">Enter the Email</string>
+    <string name="Login" translatable="false">Sign In</string>
+    <string name="Check">Please Accept the Term and Policy</string>
+    <string name="todo">Image</string>
+    <string name="awayday">Welcome to Sign Up</string>
+</resources>
